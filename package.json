@@ -1,0 +1,39 @@
+{
+  "name": "numberly",
+  "version": "1.0.0",
+  "description": "Get a specific number for an input string and number range.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "modulo-n": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/numberly.git"
+  },
+  "keywords": [
+    "number",
+    "string",
+    "word",
+    "hash"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/numberly/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/numberly#readme",
+  "blah": {
+    "related": {
+      "ul": [
+        "[`modulo-n`](https://github.com/IonicaBizau/modulo-n)"
+      ]
+    }
+  }
+}
