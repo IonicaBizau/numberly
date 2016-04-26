@@ -1,14 +1,18 @@
+
 # numberly [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/numberly.svg)](https://www.npmjs.com/package/numberly) [![Downloads](https://img.shields.io/npm/dt/numberly.svg)](https://www.npmjs.com/package/numberly) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Get a specific number for an input string and number range.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save numberly
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 const numberly = require("numberly");
@@ -34,7 +38,8 @@ console.log(numberly("Hello Mars!", 10, 20));
 // => 18
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `numberly(input, min, max)`
 
@@ -46,17 +51,23 @@ console.log(numberly("Hello Mars!", 10, 20));
 #### Return
 - **Number** The pseudo-hash for the input string, as number.
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
+## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
-## Related
+
+ - [`engine-builder`](https://github.com/IonicaBizau/engine-parser) (by jillix)—Engine composition parser.
+## :sparkles: Related
 
  - [`modulo-n`](https://github.com/IonicaBizau/modulo-n)
 
-## License
+
+
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
