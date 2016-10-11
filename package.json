@@ -30,11 +30,9 @@
   },
   "homepage": "https://github.com/IonicaBizau/numberly#readme",
   "blah": {
-    "related": {
-      "ul": [
-        "[`modulo-n`](https://github.com/IonicaBizau/modulo-n)"
-      ]
-    }
+    "related": [
+      "modulo-n"
+    ]
   },
   "files": [
     "bin/",
