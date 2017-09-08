@@ -1,6 +1,6 @@
 {
   "name": "numberly",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Get a specific number for an input string and number range.",
   "main": "lib/index.js",
   "directories": {
@@ -44,6 +44,9 @@
     "resources/",
     "menu/",
     "cli.js",
-    "index.js"
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
   ]
 }
