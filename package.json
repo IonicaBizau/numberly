@@ -1,6 +1,6 @@
 {
   "name": "numberly",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Get a specific number for an input string and number range.",
   "main": "lib/index.js",
   "directories": {
